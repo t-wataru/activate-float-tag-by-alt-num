@@ -1,2 +1,2 @@
-# activate-float-tag-by-alt-num
-activate float tag by alt-num
+# select-unpinned-tab-by-alt-num  
+Firefox add-on that select unpinned tab by alt-num  
